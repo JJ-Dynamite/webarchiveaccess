@@ -9,7 +9,7 @@ services:
       - "3001:3001"
     environment:
       - RUST_LOG=info
-      - DATABASE_URL=postgres://postgres:postgres@db:5432/webarchive_access
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/faang_webarchive_access
     depends_on:
       db:
         condition: service_healthy
@@ -32,7 +32,7 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=webarchive_access
+      - POSTGRES_DB=faang_webarchive_access
     ports:
       - "5432:5432"
     volumes:

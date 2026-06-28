@@ -1,6 +1,6 @@
 # Access any old webpage
 
-[![CI](https://github.com/JJ-Dynamite/webarchive-access/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/webarchive-access/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/faang-webarchive-access/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-webarchive-access/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Access any old webpage - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/webarchive-access.git
+git clone https://github.com/JJ-Dynamite/faang-webarchive-access.git
 cd webarchive-access
 
 # Install backend dependencies

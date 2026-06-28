@@ -1,4 +1,4 @@
-# Contributing to webarchive-access
+# Contributing to faang-webarchive-access
 
 Thank you for your interest in contributing!
 
