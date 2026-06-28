@@ -1,11 +1,11 @@
 [package]
-name = "faang-webarchive-access-backend"
+name = "webarchiveaccess-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Access any old webpage - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-webarchive-access"
+repository = "https://github.com/JJ-Dynamite/webarchiveaccess"
 
 [dependencies]
 axum = "0.7"
